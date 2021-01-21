@@ -11,6 +11,9 @@
 > ->จำนวนเชิงซ้อนและเฟสเซอร์ไดอะแกรม <br />
 link: [VIDEO](https://www.youtube.com/watch?v=wICw-4dLmTs) <br />
 link: [ปริมาณเชิงซ้อน (Complex Number)](https://drive.google.com/file/d/0B8uMFoLaAO-Ic0kxQUZrNzBNNVk/view?usp=sharing) <br />
+link: [video จำนวนเชิงซ้อนแบบ polar form 1](https://www.youtube.com/watch?v=BrYXKh-6JWk) <br />
+link: [video จำนวนเชิงซ้อนแบบ polar form 2](https://www.youtube.com/watch?v=_-ZR29OMj4s) <br />
+link: [video จำนวนเชิงซ้อนคอนจูเกต](https://www.youtube.com/watch?v=dHf4QkM1fck) <br />
 link: [สมการรูปคลื่น  สมการเฟสเซอร์  และเฟสเซอร์ ไดอะแกรม](https://drive.google.com/file/d/0B8uMFoLaAO-IMkFBay02WlhPNTA/view?usp=sharing) <br />
 link: [การบวกลบเวคเตอร์](https://drive.google.com/file/d/0B8uMFoLaAO-IQWUxcmkyVW8xNTQ/view?usp=sharing) <br />
 #
