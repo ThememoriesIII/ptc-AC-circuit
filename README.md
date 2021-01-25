@@ -23,8 +23,8 @@ link: [การบวกลบเวคเตอร์](https://drive.google.co
 >> link: [VIDEO ไฟฟ้ากระแสสลับ - 1) วงจร RLC](https://www.youtube.com/watch?v=xyPs-cPA_ck) <br /> 
 >> link: [วงจรไฟฟ้ากระแสสลับที่มี R – L – C เพียงอย่างเดียว](https://drive.google.com/file/d/0B8uMFoLaAO-IckRhVHlqVEwxTkE/view?usp=sharing) <br />
 #
+VIDE: [มัดรวมอนุกรม ขนาน R - L - C](https://www.youtube.com/watch?v=6t6t_0ATHZg)<br />
 > ->วงจร R-L-C อนุกรมในวงจรไฟสลับ <br />
-link: [VIDEO](#) <br />
 link: [วงจรอนุกรม R – L – C](https://drive.google.com/file/d/0B8uMFoLaAO-Ial9CUVpIZ3ZmblE/view?usp=sharing) <br />
 #
 > ->ววงจร R-L-C ขนานในวงจรไฟสลับ <br />
