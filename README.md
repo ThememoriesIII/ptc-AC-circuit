@@ -5,6 +5,7 @@
 ## ไปอ่านกันมาเยอะๆ 	<br/>
 ## ตัวอย่างข้อสอบ จะอัพเดทให้ลองทำวันที่ 10 กพ 64
 # VIDEO:[รวมมิตเกือบทั้งวิชา ควรฟังอย่างยิ่ง](https://www.youtube.com/watch?v=sOZPdRG8QbI) <br />
+[![Watch the video](https://www.youtube.com/watch?v=sOZPdRG8QbI)](https://www.youtube.com/watch?v=sOZPdRG8QbI) <br />
 
 > -> แหล่งกำเนิดไฟฟ้ากระแสสลับ (อ่านเอาเด้อบ่มีวิดีโอเด้) <br />
 > ->พารามิเตอร์ของคลื่นไซน์ <br />
