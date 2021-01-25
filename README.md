@@ -5,7 +5,7 @@
 ## ไปอ่านกันมาเยอะๆ 	<br/>
 ## ตัวอย่างข้อสอบ จะอัพเดทให้ลองทำวันที่ 10 กพ 64
 # VIDEO:[รวมมิตเกือบทั้งวิชา ควรฟังอย่างยิ่ง](https://www.youtube.com/watch?v=sOZPdRG8QbI) <br />
-[![Everything Is AWESOME](https://img.youtube.com/vi/sOZPdRG8QbI/maxresdefault.jpg)](https://youtu.be/sOZPdRG8QbI) <br />
+[![Everything Is AWESOME](https://img.youtube.com/vi/sOZPdRG8QbI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sOZPdRG8QbI) <br />
 > -> แหล่งกำเนิดไฟฟ้ากระแสสลับ (อ่านเอาเด้อบ่มีวิดีโอเด้) <br />
 > ->พารามิเตอร์ของคลื่นไซน์ <br />
  link:[เนื้อหาสำหรับอ่าน ค่าต่าง ๆ ของไฟฟ้ากระแสสลับ](https://drive.google.com/file/d/0B8uMFoLaAO-IT0xnclhubVd4akU/view?usp=sharing "Everything Is AWESOME") <br />
